@@ -3,7 +3,7 @@
 ## About me 📝
 
 <div>
-  <img src="https://github.com/user-attachments/assets/3124b6a1-9fbd-4db0-b409-f598394360b6" align="right" title="Yui is coding..." width="400" height="230"></img>
+  <img src="https://github.com/user-attachments/assets/3124b6a1-9fbd-4db0-b409-f598394360b6" align="right" title="hush! Yui is coding... | Credit: MadSkillz art" width="400" height="230"></img>
   <p align="left">My name is Bernardo Morcelli, I am 22 years old Full-Stack JavaScript student and also a Computer Systems Analysis and Development undergraduate from São Paulo, Brazil. Passionate about physics, I completed three years of a Bachelor’s degree but decided to switch to becoming a developer.
   I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out.
   </p>
