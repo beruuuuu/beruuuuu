@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://github.com/user-attachments/assets/3124b6a1-9fbd-4db0-b409-f598394360b6" align="right" title="hush! Yui is coding... | Credit: MadSkillz art" width="400" height="230"></img>
-  <p align="left">My name is Bernardo Morcelli, I am 22 years old IT student from São Paulo, Brazil. Passionate about physics, I completed three years of a Bachelor’s degree but decided to switch to CS field..
+  <p align="left">My name is Bernardo Morcelli, I am 22 years old IT student from São Paulo, Brazil. Passionate about physics, I completed three years of a Bachelor’s degree but decided to switch to CS field.
   I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out.
   </p>
 </div>
